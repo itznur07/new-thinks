@@ -25,6 +25,7 @@ body {
   top: 30%;
   right: 0;
   margin-right: 230px;
+  padding: 0px 20px;
 }
 .header-content h1 {
   color: white;
@@ -49,3 +50,39 @@ body {
   font-weight: bold;
 }
 /* header section design */
+
+/* My failures of previous year section design */
+.prev-fpy-content {
+  margin-top: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.prev-fpy-content-left img {
+  width: 570px;
+}
+.prev-fpy-content-right {
+  margin-right: 40px;
+  margin-top: 50px;
+}
+.prev-fpy-content-right h1 {
+  font-size: 40px;
+  line-height: 47px;
+  font-weight: 700;
+}
+.prev-fpy-content-right p {
+  margin-top: 24px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+}
+.prev-fpy-content-right div {
+  margin-top: 20px;
+}
+.prev-fpy-content-right div > span > img {
+  width: 20px;
+}
+.prev-fpy-content-right div > span {
+  font-size: 16px;
+}
+/* My failures of previous year section design */

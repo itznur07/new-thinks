@@ -117,3 +117,33 @@ body {
   margin-top: 15px;
 }
 /* My plan section desing */
+
+/* Positive mindset section design */
+.positive {
+  border-radius: 8px;
+  background-image: url(../images/gradient1.png), url(../images/watch.png);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.positive_content {
+  margin-top: 130px;
+  padding: 60px;
+}
+.positive_content h1 {
+  font-size: 40px;
+  color: white;
+  font-weight: 700;
+  line-height: 47px;
+}
+.positive_content button {
+  margin-top: 24px;
+  color: #005fac;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  background-color: white;
+  padding: 15px 30px;
+  margin-top: 32px;
+  font-weight: bold;
+}
+/* Positive mindset section design */

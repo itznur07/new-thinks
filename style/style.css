@@ -48,6 +48,7 @@ body {
   padding: 15px 30px;
   margin-top: 32px;
   font-weight: bold;
+  cursor: pointer;
 }
 /* header section design */
 
@@ -143,7 +144,61 @@ body {
   border-radius: 5px;
   background-color: white;
   padding: 15px 30px;
-  margin-top: 32px;
   font-weight: bold;
+  cursor: pointer;
 }
 /* Positive mindset section design */
+.footer {
+  width: 100%;
+  margin-top: 130px;
+  background-color: #151414;
+}
+.footer-content {
+  padding: 130px 0px;
+  display: flex;
+  justify-content: space-between;
+}
+.footer-content-left h2 {
+  font-size: 45px;
+  font-weight: 700;
+  color: #fff;
+}
+.footer-content-left p {
+  color: #fff;
+  margin-top: 16px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+}
+.footer-content-left div {
+  margin-top: 32px;
+}
+.footer-content-left div img {
+  width: 47px;
+  margin-right: 16px;
+}
+/* footer content right */
+.footer-content-right h3 {
+  font-size: 25px;
+  font-weight: 600;
+  color: #fff;
+}
+.footer-content-right input {
+  margin-top: 30px;
+  border: 1px solid #ffffff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  background: transparent;
+}
+.footer-content-right button {
+  margin-top: 16px;
+  color: #fff;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  background-color: #005fac;
+  padding: 15px 30px;
+  font-weight: bold;
+  cursor: pointer;
+}
+/* footer section design */
